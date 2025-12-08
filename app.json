@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "fitness",
-    "slug": "snack-1927907a-02ad-4ebc-a0e0-496d8033d9f2",
+    "slug": "fitness",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,7 +21,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.javro.snack1927907a02ad4ebca0e0496d8033d9f2"
+      "package": "com.javro.fitness"
     },
     "web": {
       "favicon": "./assets/favicon.png"
